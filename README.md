@@ -26,7 +26,7 @@ in Docker Compose.
 
 ## Setup (database data is not present in the repository):
 
-1. Clone the repository:
+1. Clone the repository.
 
 2. Create an '.env' file based on '.env.example'. Change <PWD> for the database
    volume. Change other values, if needed.
